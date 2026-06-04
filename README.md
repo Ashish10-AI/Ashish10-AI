@@ -36,7 +36,7 @@ I blend **pixel-perfect design**, **Python automation**, and **data storytelling
 - 🔭 Building data tools and automation projects
 - 🌱 Expanding into REST APIs and full-stack deployments
 - 💬 Open to freelance web design, Python scripts & data dashboard projects
-- 📫 Reach me: [LinkedIn](#) · [Portfolio](#)
+- 📫 Reach me: [LinkedIn](#https://www.linkedin.com/in/ashish-yadav-a294212b2/) · [Portfolio](#https://my-portfolio-neon-psi-88.vercel.app/)
 
 ---
 
