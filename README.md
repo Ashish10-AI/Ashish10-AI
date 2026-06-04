@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi, I'm Ashish 👋
+### Freelance Creative Technologist · Dehradun, India
 
-<!--
-**Ashish10-AI/Ashish10-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Where Design meets Code & Results follow."*
 
-Here are some ideas to get you started:
+I blend **pixel-perfect design**, **Python automation**, and **data storytelling** to deliver real results for ambitious brands. Available for freelance projects worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Libraries**
+`Python` `SQL` `HTML` `CSS` `JavaScript`
+`Pandas` `Streamlit` `Flask` `Plotly` `scikit-learn`
+
+**Tools & Platforms**
+`Power BI` `Google Sheets API` `Git` `GitHub` `GSAP` `MySQL`
+
+**Services**
+`Web Design` `Data Dashboards` `Python Automation` `Video Editing` `AI/Prompt Engineering`
+
+---
+
+## 📌 Featured Projects
+
+| Project | What It Does | Tech |
+|--------|-------------|------|
+| 📊 [Business Performance Dashboard](#) | Live sales dashboard connected to Google Sheets | Python, Streamlit, Plotly, Pandas, Google Sheets API |
+| 💼 [Portfolio Website](#) | Custom-coded portfolio with GSAP animations | HTML, CSS, JavaScript, GSAP |
+| 🔍 [AtliQ Sales Insights Dashboard](#) | Power BI dashboard for hardware sales analytics | Power BI, MySQL, ETL, Data Modelling |
+
+---
+
+## 📈 What I'm Up To
+
+- 🔭 Building data tools and automation projects
+- 🌱 Expanding into REST APIs and full-stack deployments
+- 💬 Open to freelance web design, Python scripts & data dashboard projects
+- 📫 Reach me: [LinkedIn](#) · [Portfolio](#)
+
+---
+
+## 📊 GitHub Stats
+
+![Dashboard Preview](dashboard_screenshot.png)
+![Portfolio Preview](portfolio_screenshot.png)
+![Dashboard Preview](atliq_screenshot.png)
+
+---
+
+*Available for freelance work · Based in Dehradun, India · Working with clients worldwide 🌍*
