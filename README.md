@@ -1,5 +1,5 @@
 ## Hi, I'm Ashish 👋
-### Freelance Creative Technologist · Dehradun, India
+### Freelance Creative Technologist · Haldwani, India
 
 > *"Where Design meets Code & Results follow."*
 
